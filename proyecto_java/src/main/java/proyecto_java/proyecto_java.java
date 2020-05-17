@@ -3,7 +3,7 @@ package proyecto_java;
 public class proyecto_java {
     public static void main(String[] args) {
      
-   //estes mi tercer commit  
+   //finalmente 3 commit 
           double dinero =100;
                    double vrl; 
                    double vr2;
